@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>حذف الحساب</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #f5f5f5;
+      text-align: center;
+      padding: 50px;
+      color: #333;
+    }
+    .container {
+      background: white;
+      padding: 30px;
+      max-width: 500px;
+      margin: auto;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #d32f2f;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>طلب حذف الحساب</h1>
+    <p>نحن نحترم خصوصيتك، إذا رغبت بحذف حسابك يرجى التواصل معنا عبر البريد التالي:</p>
+    <p><strong>echohamm@gmail.com</strong></p>
+    <p>سنقوم بحذف جميع البيانات المرتبطة خلال 7 أيام عمل.</p>
+  </div>
+</body>
+</html>
